@@ -1,5 +1,6 @@
-#Exemple : Check snapshot count on all VMs
+###Exemple : Check snapshot count on all VMs
 
+###Check snapshot count on all VMs
 define host {
   use   snapshot-vmware
   host_name   		esx01.local
