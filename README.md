@@ -1,7 +1,7 @@
 ###Exemple
 
 ######Check snapshot count on all VMs
-
+```
 define host {
   use             snapshot-vmware
   host_name   		esx01.local
@@ -10,3 +10,4 @@ define host {
  _PASSWORD        Pa$$w0rd
  _BLACKL          --blacklist 'replica'
 }
+```
