@@ -1,7 +1,7 @@
 ###Information
 
-You need to download the plugin check_vmware_snapshot.pl at this link : 
-[Download here!](www.github.com)
+You need to download the plugin `check_vmware_snapshot.pl` from Simon at this link : 
+[Download here!](https://labs.consol.de/nagios/check_vmware_snapshots/)
 
 ###Exemple
 
